@@ -2,15 +2,8 @@
 
 int main(int argc, char* argv[])
 {
-  fprintf(stdout, "*******************************************************************************\n");
-  fprintf(stdout, "*                                                                             *\n");
-  fprintf(stdout, "*                             Example Application                             *\n");
-  fprintf(stdout, "*                                                                             *\n");
-  fprintf(stdout, "*                                                                             *\n");
-  fprintf(stdout, "*                                                                             *\n");
-  fprintf(stdout, "*******************************************************************************\n");
-  fprintf(stdout, "\nHello universe!\n");
+	fprintf(stdout, "Hello universe!\n");
 
-  return 0;
+	return 0;
 }
 
